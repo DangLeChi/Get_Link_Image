@@ -1,4 +1,4 @@
-
+# test
 import random
 
 def getword(namefile):   # function getword with namefile parameter will try read file word and return content of file if system don't have file will return 0
